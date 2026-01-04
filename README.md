@@ -1,2 +1,2 @@
-# attention-copilot-desktop-production
+# Attention Copilot Desktop Prodution
 To download the Attention Copilot desktop app.
